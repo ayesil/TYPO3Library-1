@@ -1,0 +1,14 @@
+{
+    "name": "schalk/typo3library",
+    "description": "",
+    "homepage": "https://www.schalk-and-friends.de",
+    "license": ["GPL-3.0-or-later"],
+    "keywords": ["typo3library"],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "schalk\\TYPO3Library\\": "src/"
+        }
+    }
+}
