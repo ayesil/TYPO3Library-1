@@ -1,5 +1,5 @@
 <?php
-namespace schalk\TYPOLibrary\ViewHelpers;
+namespace schalk\TYPO3Library\ViewHelpers;
 
 use TYPO3\CMS\Core\Utility\GeneralUtility;
 
